@@ -22,3 +22,9 @@ Implementation of Self-Organizing Map (SOM) for clustering synthetic 2D data.
 - matplotlib
 - minisom
 - imageio
+## 📷 Example Output
+
+![Synthetic 2D Data](images/plot_2026-02-17_18-27-22.png)
+
+## 🎞 SOM Training (GIF)
+![SOM Training](som_training.gif)
